@@ -174,7 +174,7 @@ namespace ConsoleApp7
             #endregion
             #region Task
             // Task 01: Draw memory 
-            // Task 02: proteted priviedprotected internal protected acessable 
+            // Task 02:
             // 1. protected
             // 	The code is accessible within the same class, or in a class that is inherited from that class.
             Protected P = new Protected();
